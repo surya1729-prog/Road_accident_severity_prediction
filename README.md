@@ -1,6 +1,6 @@
 # Traffic-Accident-Severity-and-Hotspot-Detection
 
-Live Demo: [Click Here](https://road-accident-analysis-severity-prediction-xqlzia5xtupo7fjzczm.streamlit.app/)
+Live Demo: [Click Here](https://road-accident-severityprediction.streamlit.app/)
 
 A data-driven exploration of 100,000+ US road accidents that uncovers hidden patterns in time, weather, and geography — and then applies Machine Learning to predict accident severity and map high-risk hotspots across the country.
 
